@@ -1,0 +1,12 @@
+- /AppData/**
+- /Application Data/**
+- /Local Settings/**
+- /MicrosoftEdgeBackups/**
++ *.mp4
++ *.mkv
++ *.avi
++ *.mpg
++ *.mpeg
++ *.mov
++ *.wmv
+- *

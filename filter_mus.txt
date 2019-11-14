@@ -1,0 +1,12 @@
+- /AppData/**
+- /Application Data/**
+- /Local Settings/**
+- /MicrosoftEdgeBackups/**
++ *.mp3
++ *.flac
++ *.ogg
++ *.wav
++ *.wpa
++ *.wma
++ *.mid
+- *

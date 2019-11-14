@@ -1,0 +1,14 @@
+- /AppData/**
+- /Application Data/**
+- /Local Settings/**
+- /MicrosoftEdgeBackups/**
++ *.png
++ *.bmp
++ *.gif
++ *.jpeg
++ *.jpg
++ *.svg
++ *.psd
++ *.tiff
++ *.tif
+- *
