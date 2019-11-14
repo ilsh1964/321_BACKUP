@@ -1,0 +1,3 @@
+Version 1.4:
+    - Add --skip-links
+    - Add ignore dirs to filter_*.txt
