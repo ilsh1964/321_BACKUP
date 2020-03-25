@@ -1,7 +1,14 @@
 - /AppData/**
 - /Application Data/**
+- /Cookies/**
+- /Favorites/**
+- /Intel/**
+- /IntelGraphicsProfiles/**
+- /Links/**
 - /Local Settings/**
 - /MicrosoftEdgeBackups/**
+- /Saved Games/**
+- /Searches/**
 + *.png
 + *.bmp
 + *.gif

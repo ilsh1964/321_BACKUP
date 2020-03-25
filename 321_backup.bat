@@ -1,4 +1,4 @@
-REM VERSION 1.4 14/11/2019
+REM VERSION 2.0 25/03/2020
 set username=ilan
 C:
 CD C:\321_BACKUP\

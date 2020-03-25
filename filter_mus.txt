@@ -1,12 +1,18 @@
 - /AppData/**
 - /Application Data/**
+- /Cookies/**
+- /Favorites/**
+- /Intel/**
+- /IntelGraphicsProfiles/**
+- /Links/**
 - /Local Settings/**
 - /MicrosoftEdgeBackups/**
+- /Saved Games/**
+- /Searches/**
 + *.mp3
 + *.flac
 + *.ogg
 + *.wav
 + *.wpa
 + *.wma
-+ *.mid
 - *

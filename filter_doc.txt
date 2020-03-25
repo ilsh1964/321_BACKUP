@@ -1,18 +1,23 @@
 - /AppData/**
 - /Application Data/**
+- /Cookies/**
+- /Favorites/**
+- /Intel/**
+- /IntelGraphicsProfiles/**
+- /Links/**
 - /Local Settings/**
 - /MicrosoftEdgeBackups/**
+- /Saved Games/**
+- /Searches/**
 + *.doc
 + *.docx
-+ *.xlr
-+ *.xls
-+ *.xlsx
-+ *.pdf
 + *.ods
 + *.odp
 + *.odt
++ *.pdf
 + *.pps
 + *.ppt
 + *.pptx
-+ *.rtf
++ *.xls
++ *.xlsx
 - *
